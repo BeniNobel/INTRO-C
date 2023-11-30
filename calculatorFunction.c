@@ -1,5 +1,5 @@
 // Program to implements a basic calculator that allows the user to perform addition, subtraction,
-multiplication, and division on two integers.
+// multiplication, and division on two integers.
 
 #include <stdio.h>
 #include <stdlib.h>
