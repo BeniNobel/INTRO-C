@@ -13,9 +13,9 @@ int menu() {
         printf("1: Budweiser\n");
         printf("2: Miller Lite\n");
         printf("3: Coors Light\n");
-        printf("4: Orange Soda\n");   // Fanta Orange changed to Orange Soda
-        printf("5: Lemon Soda\n");    // Fanta Citron changed to Lemon Soda
-        printf("6: Cola\n");          // Fanta Coca-Cola changed to Cola
+        printf("4: Orange Soda\n");
+        printf("5: Lemon Soda\n");
+        printf("6: Cola\n");
         printf("_____\n");
         printf("What is your choice? ");
         scanf("%d", &choice);
