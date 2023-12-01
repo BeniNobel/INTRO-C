@@ -10,7 +10,7 @@ This repository contains a set of C programs written for educational purposes. T
 
 ## Usage
 
-Clone the repository to your local machine and compile the programs using a C compiler. Instructions for compilation and execution are provided in each program's respective directory.
+Clone the repository to your local machine and compile the programs using a C compiler.
 
 ## Contributing
 
