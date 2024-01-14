@@ -1,6 +1,6 @@
 # INTRO
 
-# C Programming Practice
+## C Programming Practice
 
 A collection of C programs for practicing and learning C programming.
 
